@@ -16,8 +16,7 @@ Built as part of the SnW individual project.
 
 ## Tech Used
 - HTML  
-- CSS (Flexbox + Grid)  
-- No frameworks, no JavaScript  
+- CSS (Flexbox + Grid)
 
 ---
 
